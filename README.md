@@ -85,7 +85,7 @@ educational resources.
 Project  Demo Link:-
 https://drive.google.com/drive/u/1/folders/16joSNE84vkUNh7yxa65ZEUO4CQt6V1mR
 
-Conclusion
+Conclusion:
 DiaSense is a state-of-the-art solution designed to predict and manage diabetes risk, offering 
 users a comprehensive suite of tools and features to take control of their health. Through the 
 power of machine learning, intuitive visualizations, and accessibility features, DiaSense aims to 
