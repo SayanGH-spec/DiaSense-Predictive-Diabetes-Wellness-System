@@ -119,6 +119,6 @@ fig = px.bar(accuracy_df, x='Model', y='Accuracy', color='Model', labels={'Accur
 st.plotly_chart(fig)
 
 st.markdown("---")
-st.write("Made with ❤️ by group 21")
+st.write("Copyright @Sayan2023")
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
